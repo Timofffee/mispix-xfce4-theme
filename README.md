@@ -1,6 +1,6 @@
 # Mispix - Minimalistic theme for XFCE4
 
-![screenshot dark](scr_dark.png)
+![screenshot dark](src_dark.png)
 
 I needed a minimalistic theme to work on the screen of my small-screen netbook. That's why I created this theme almost from scratch. It looks great on a small screen, as it takes up very little space and looks quite attractive to me. However, it may not look very good on high-resolution screens!! 
 
